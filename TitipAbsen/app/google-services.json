@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "535105637241",
+    "firebase_url": "https://absensimahasiswa-bc781.firebaseio.com",
+    "project_id": "absensimahasiswa-bc781",
+    "storage_bucket": "absensimahasiswa-bc781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535105637241:android:4a85f2e416eb0bd6",
+        "android_client_info": {
+          "package_name": "com.example.titipabsen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535105637241-k93lbl6jaot9d9n3ngf5569ks6td8nu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.titipabsen",
+            "certificate_hash": "140e8360f3b7e58d52631e8828e85041e2933259"
+          }
+        },
+        {
+          "client_id": "535105637241-uv6hqthg9hk9uq6ksphre2imfv1h895i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.titipabsen",
+            "certificate_hash": "9ad2c5e9062ac053d42617b71224cf6bcc8803ce"
+          }
+        },
+        {
+          "client_id": "535105637241-483gfd6tilln6nkrlfeq1uqtf8vir2b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tABSUfyLChaTxUwKwomy0LUnm3AIf8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535105637241-483gfd6tilln6nkrlfeq1uqtf8vir2b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
